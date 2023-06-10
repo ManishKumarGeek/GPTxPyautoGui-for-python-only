@@ -14,7 +14,7 @@ while True:
 	message = input("Specify the program: ")
 	finaly = """Solve this in PROGRAMMING_LANGUAGE Python using optimized data structures for efficient time and space complexity, while explaining your code in an elegant yet descriptive manner & every thing you explain should be comment out for the first word to last :
  & before starting write #This Prompt is created by Manish, & line break with line divider.""" + message
-	formt = input("language serfix Example : .py ")
+	#formt = input("language serfix Example : .py ")
 	if message:
 		messages.append(
 			{"role": "user", "content": finaly },
