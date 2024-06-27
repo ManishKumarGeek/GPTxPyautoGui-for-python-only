@@ -11,5 +11,9 @@ This script essentially automates the process of getting solutions from the GPT-
 
 # REQUIRMENT 
 pyautogui
+
+
 openai
+
+
 time
